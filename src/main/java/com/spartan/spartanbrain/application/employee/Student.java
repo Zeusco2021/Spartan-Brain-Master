@@ -5,6 +5,6 @@
  * =============================================================================
  *
  */
-package com.spartan.spartanbrain.application.Employee;
+package com.spartan.spartanbrain.application.employee;
 
-public class Employee {}
+public class Student {}
